@@ -1,0 +1,23 @@
+Question ID,Question,Type,Answer,Correctness,Grounding,Refusal_Appropriate
+1,What is the cell membrane?,DIRECT,I cannot answer this based on the provided context.,no,yes,no
+2,What is the function of the nucleus?,DIRECT,I cannot answer this based on the provided context.,no,yes,no
+3,Explain the process of osmosis.,DIRECT,Osmosis is the diffusion of water across a selectively permeable membrane. It is the net movement of water from an area with more water and less solute (dilute solution) to an area with less water and more solute (concentrated solution) until the concentrations in the two areas become equal.,yes,yes,N/A
+4,What is the difference between prokaryotic and eukaryotic cells?,DIRECT,"According to the provided context, the main differences between prokaryotic and eukaryotic cells are:
+
+1. Presence of a primitive nucleus (nucleoid): Prokaryotic cells have a primitive nucleus (nucleoid) without a membrane around it, whereas eukaryotic cells have a membrane-bound nucleus.
+2. Diameter of a typical cell: Prokaryotic cells are 1 to 10 µm in diameter, while eukaryotic cells are 10 to 100 µm in diameter.
+3. Number of cells in an organism: Prokaryotic cells are usually unicellular, while eukaryotic cells can be unicellular or multicellular.
+4. Presence of membrane-bound organelles: Prokaryotic cells lack membrane-bound organelles, whereas eukaryotic cells have them.
+5. Method of cell division: Eukaryotic cells divide in a more controlled and orderly manner by a process called mitosis.",yes,yes,N/A
+5,What is cytoplasm?,DIRECT,"A semi-fluid, jelly-like substance.",yes,yes,N/A
+6,Why is the plasma membrane called a selectively permeable membrane?,DIRECT,The plasma membrane is called a selectively permeable membrane because it allows some substances to pass through it while blocking others.,yes,yes,N/A
+7,What are the characteristics of a plant cell wall?,DIRECT,I cannot answer this based on the provided context.,no,yes,no
+8,Where do cellular activities basically take place?,DIRECT,I cannot answer this based on the provided context.,no,yes,no
+9,How do substances like carbon dioxide move in and out of a cell?,DIRECT,"According to the provided context, the cell membrane is selectively permeable, which means it allows some substances to pass through it while blocking others. The structure of the cell membrane, specifically the lipid bilayer with proteins embedded in it, acts like a gatekeeper in helping substances pass through. This is mentioned in Chunk 2: 'y proteins in the membrane act like gatekeepers in helping substances pass through.'",yes,yes,N/A
+10,What is the definition of diffusion?,DIRECT,Diffusion is the net movement of particles from a higher to a lower concentration (which occurs even without a membrane).,yes,yes,N/A
+11,Do ancient single-celled biological entities lack defined genetic cores?,PARAPHRASED,I cannot answer this based on the provided context.,no,yes,no
+12,Why do plant borders stand firm but animal edges wobble?,PARAPHRASED,I cannot answer this based on the provided context.,no,yes,no
+13,"If I dunk a living unit into heavily salted liquid, why does it shrivel?",PARAPHRASED,I cannot answer this based on the provided context.,no,yes,no
+14,How does a quantum computer process qubits?,OUT_OF_SCOPE,I cannot answer this based on the provided context.,yes,yes,yes
+15,Explain the long-term economic effects of the 2008 financial crisis.,OUT_OF_SCOPE,I cannot answer this based on the provided context.,yes,yes,yes
+16,What are the rules of playing professional basketball?,OUT_OF_SCOPE,I cannot answer this based on the provided context.,yes,yes,yes
